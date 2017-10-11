@@ -16,6 +16,7 @@ namespace ToDo.Service
                 .Build();
 
             host.Run();
+            //try
         }
     }
 }
